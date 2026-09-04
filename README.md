@@ -49,7 +49,7 @@ npm start
 For Android:
 
 ```sh
-npn run android
+npm run android
 ```
 
 For iOS:
